@@ -1,0 +1,9 @@
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationAndon\bin\Debug\WorkstationAndon.exe.config
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationAndon\bin\Debug\WorkstationAndon.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationAndon\bin\Debug\WorkstationAndon.pdb
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationAndon\obj\Debug\WorkstationAndon.WorkstationAndon.resources
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationAndon\obj\Debug\WorkstationAndon.Properties.Resources.resources
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationAndon\obj\Debug\WorkstationAndon.csproj.GenerateResource.Cache
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationAndon\obj\Debug\WorkstationAndon.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationAndon\obj\Debug\WorkstationAndon.pdb
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationAndon\obj\Debug\WorkstationAndon.csprojResolveAssemblyReference.cache

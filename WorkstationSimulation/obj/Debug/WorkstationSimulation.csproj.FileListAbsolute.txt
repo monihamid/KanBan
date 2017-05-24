@@ -1,0 +1,12 @@
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationSimulation\bin\Debug\WorkstationSimulation.exe.config
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationSimulation\bin\Debug\WorkstationSimulation.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationSimulation\bin\Debug\WorkstationSimulation.pdb
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationSimulation\obj\Debug\WorkstationSimulation.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationSimulation\obj\Debug\WorkstationSimulation.pdb
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\WorkstationSimulation\bin\Debug\WorkstationSimulation.exe.config
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\WorkstationSimulation\obj\Debug\WorkstationSimulation.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\WorkstationSimulation\obj\Debug\WorkstationSimulation.pdb
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\WorkstationSimulation\bin\Debug\WorkstationSimulation.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\WorkstationSimulation\bin\Debug\WorkstationSimulation.pdb
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\WorkstationSimulation\obj\Debug\WorkstationSimulation.csprojResolveAssemblyReference.cache
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\WorkstationSimulation\obj\Debug\WorkstationSimulation.csprojResolveAssemblyReference.cache

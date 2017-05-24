@@ -1,0 +1,9 @@
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\AssemblyLine\bin\Debug\AssemblyLine.exe.config
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\AssemblyLine\bin\Debug\AssemblyLine.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\AssemblyLine\bin\Debug\AssemblyLine.pdb
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\AssemblyLine\obj\Debug\AssemblyLine.Properties.Resources.resources
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\AssemblyLine\obj\Debug\AssemblyLine.csproj.GenerateResource.Cache
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\AssemblyLine\obj\Debug\AssemblyLine.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\AssemblyLine\obj\Debug\AssemblyLine.pdb
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\AssemblyLine\obj\Debug\AssemblyLine.AssemblyLine.resources
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\AssemblyLine\obj\Debug\AssemblyLine.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\KanBan\bin\Debug\KanBan.exe.config
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\KanBan\bin\Debug\KanBan.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\KanBan\bin\Debug\KanBan.pdb
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\KanBan\obj\Debug\KanBan.Kanban.resources
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\KanBan\obj\Debug\KanBan.NewConfig.resources
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\KanBan\obj\Debug\KanBan.Properties.Resources.resources
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\KanBan\obj\Debug\KanBan.csproj.GenerateResource.Cache
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\KanBan\obj\Debug\KanBan.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\KanBan\obj\Debug\KanBan.pdb
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\KanBan\obj\Debug\KanBan.WorkStationConfig.resources
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\KanBan\bin\Debug\KanBan.exe.config
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\KanBan\bin\Debug\KanBan.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\KanBan\bin\Debug\KanBan.pdb
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\KanBan\obj\Debug\KanBan.csprojResolveAssemblyReference.cache
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\KanBan\obj\Debug\KanBan.Kanban.resources
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\KanBan\obj\Debug\KanBan.NewConfig.resources
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\KanBan\obj\Debug\KanBan.Properties.Resources.resources
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\KanBan\obj\Debug\KanBan.WorkStationConfig.resources
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\KanBan\obj\Debug\KanBan.csproj.GenerateResource.Cache
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\KanBan\obj\Debug\KanBan.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\KanBan\KanBan\obj\Debug\KanBan.pdb
+C:\Users\computer1\Documents\SET\Courses\semester4\Advanced SQL\FinalProjectKanban\KanBan\KanBan\obj\Debug\KanBan.csprojResolveAssemblyReference.cache
